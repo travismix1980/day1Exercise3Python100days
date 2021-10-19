@@ -3,8 +3,5 @@
 # get user name
 name = input("What is your name? ")
 
-# print user name
-print(name)
-
 # print username and number of characters in it
 print("Your name " + name + " has " + str(len(name)) + " characters")
